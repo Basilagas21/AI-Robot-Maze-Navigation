@@ -1,3 +1,5 @@
+Note: I might improve the UI version and better coding convention on this branch to make the codes and flow of the program to be more easier and seemless
+
 # Robot Navigation Pathfinding Visualizer 🤖
 
  
